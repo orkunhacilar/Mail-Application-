@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/orkun.hacilar/.dotnet/store/|arch|/|tfm|",
+      "/Users/orkun.hacilar/.nuget/packages"
+    ]
+  }
+}
